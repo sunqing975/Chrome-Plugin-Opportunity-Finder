@@ -1,0 +1,537 @@
+2026-03-07 12:12:38 - response - INFO - {
+  "timestamp": "2026-03-07T12:12:38.961155",
+  "url": "https://chromewebstore.google.com/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 112
+  }
+}
+2026-03-07 13:40:22 - response - INFO - {
+  "timestamp": "2026-03-07T13:40:22.989161",
+  "url": "https://chromewebstore.google.com/category/extensions/productivity?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 13:40:37 - response - INFO - {
+  "timestamp": "2026-03-07T13:40:37.232471",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 13:40:58 - response - INFO - {
+  "timestamp": "2026-03-07T13:40:58.812154",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 13:41:13 - response - INFO - {
+  "timestamp": "2026-03-07T13:41:13.443405",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:41:22 - response - INFO - {
+  "timestamp": "2026-03-07T13:41:22.455307",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 13:41:38 - response - INFO - {
+  "timestamp": "2026-03-07T13:41:38.748814",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:41:49 - response - INFO - {
+  "timestamp": "2026-03-07T13:41:49.079577",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 13:42:28 - response - INFO - {
+  "timestamp": "2026-03-07T13:42:28.993613",
+  "url": "https://chromewebstore.google.com/category/extensions/marketing?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 13:42:45 - response - INFO - {
+  "timestamp": "2026-03-07T13:42:45.406171",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 13:43:03 - response - INFO - {
+  "timestamp": "2026-03-07T13:43:03.157084",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 13:43:18 - response - INFO - {
+  "timestamp": "2026-03-07T13:43:18.364043",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:43:37 - response - INFO - {
+  "timestamp": "2026-03-07T13:43:37.245414",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 13:44:03 - response - INFO - {
+  "timestamp": "2026-03-07T13:44:03.311814",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:44:16 - response - INFO - {
+  "timestamp": "2026-03-07T13:44:16.441786",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 13:54:03 - response - INFO - {
+  "timestamp": "2026-03-07T13:54:03.213873",
+  "url": "https://chromewebstore.google.com/category/extensions/productivity?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 13:54:31 - response - INFO - {
+  "timestamp": "2026-03-07T13:54:31.881456",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 13:55:01 - response - INFO - {
+  "timestamp": "2026-03-07T13:55:01.826791",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 13:55:19 - response - INFO - {
+  "timestamp": "2026-03-07T13:55:19.491025",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:55:30 - response - INFO - {
+  "timestamp": "2026-03-07T13:55:30.204760",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 13:55:47 - response - INFO - {
+  "timestamp": "2026-03-07T13:55:47.007747",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:56:04 - response - INFO - {
+  "timestamp": "2026-03-07T13:56:04.643727",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 13:56:48 - response - INFO - {
+  "timestamp": "2026-03-07T13:56:48.197241",
+  "url": "https://chromewebstore.google.com/category/extensions/marketing?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 13:57:01 - response - INFO - {
+  "timestamp": "2026-03-07T13:57:01.741993",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 13:57:20 - response - INFO - {
+  "timestamp": "2026-03-07T13:57:20.188645",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 13:57:31 - response - INFO - {
+  "timestamp": "2026-03-07T13:57:31.598256",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:57:49 - response - INFO - {
+  "timestamp": "2026-03-07T13:57:49.912518",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 13:58:06 - response - INFO - {
+  "timestamp": "2026-03-07T13:58:06.623790",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 13:58:24 - response - INFO - {
+  "timestamp": "2026-03-07T13:58:24.229196",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 13:59:17 - response - INFO - {
+  "timestamp": "2026-03-07T13:59:17.244438",
+  "url": "https://chromewebstore.google.com/category/extensions/productivity?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 13:59:32 - response - INFO - {
+  "timestamp": "2026-03-07T13:59:32.194152",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 13:59:51 - response - INFO - {
+  "timestamp": "2026-03-07T13:59:51.549733",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 14:00:04 - response - INFO - {
+  "timestamp": "2026-03-07T14:00:04.498188",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 14:00:20 - response - INFO - {
+  "timestamp": "2026-03-07T14:00:20.403194",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 14:00:30 - response - INFO - {
+  "timestamp": "2026-03-07T14:00:30.578907",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 14:00:44 - response - INFO - {
+  "timestamp": "2026-03-07T14:00:44.458736",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 14:01:26 - response - INFO - {
+  "timestamp": "2026-03-07T14:01:26.137022",
+  "url": "https://chromewebstore.google.com/category/extensions/marketing?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 14:01:43 - response - INFO - {
+  "timestamp": "2026-03-07T14:01:43.968119",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 14:02:04 - response - INFO - {
+  "timestamp": "2026-03-07T14:02:04.427900",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 14:02:30 - response - INFO - {
+  "timestamp": "2026-03-07T14:02:30.808545",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 14:02:42 - response - INFO - {
+  "timestamp": "2026-03-07T14:02:42.458189",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 14:02:55 - response - INFO - {
+  "timestamp": "2026-03-07T14:02:55.500142",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 14:03:04 - response - INFO - {
+  "timestamp": "2026-03-07T14:03:04.094393",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 16:09:39 - response - INFO - {
+  "timestamp": "2026-03-07T16:09:39.625882",
+  "url": "https://chromewebstore.google.com/category/extensions/productivity?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 16:09:56 - response - INFO - {
+  "timestamp": "2026-03-07T16:09:56.361040",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 16:10:19 - response - INFO - {
+  "timestamp": "2026-03-07T16:10:19.155145",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 16:10:33 - response - INFO - {
+  "timestamp": "2026-03-07T16:10:33.057864",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 16:10:44 - response - INFO - {
+  "timestamp": "2026-03-07T16:10:44.071607",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 16:10:59 - response - INFO - {
+  "timestamp": "2026-03-07T16:10:59.649076",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 16:11:10 - response - INFO - {
+  "timestamp": "2026-03-07T16:11:10.513986",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}
+2026-03-07 16:11:51 - response - INFO - {
+  "timestamp": "2026-03-07T16:11:51.961441",
+  "url": "https://chromewebstore.google.com/category/extensions/marketing?hl=zh-CN",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "plugin_count": 3
+  }
+}
+2026-03-07 16:12:09 - response - INFO - {
+  "timestamp": "2026-03-07T16:12:09.805762",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "JetBrains Grazie Writing Companion",
+    "rating": 4.3
+  }
+}
+2026-03-07 16:12:30 - response - INFO - {
+  "timestamp": "2026-03-07T16:12:30.505330",
+  "url": "https://chromewebstore.google.com/detail/fonaoompfjljjllgccccgjnhnoghohgc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 37
+  }
+}
+2026-03-07 16:12:54 - response - INFO - {
+  "timestamp": "2026-03-07T16:12:54.028661",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Wordtune: AI Paraphrasing and Grammar Tool",
+    "rating": 4.6
+  }
+}
+2026-03-07 16:13:04 - response - INFO - {
+  "timestamp": "2026-03-07T16:13:04.237924",
+  "url": "https://chromewebstore.google.com/detail/nllcnknpjnininklegdoijpljgdjkijc/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 24
+  }
+}
+2026-03-07 16:13:17 - response - INFO - {
+  "timestamp": "2026-03-07T16:13:17.453924",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp",
+  "status_code": 200,
+  "response_time": 0.0,
+  "response_data": {
+    "name": "Jetwriter AI: Reply Emails, Ask Page, Summarize, Fix Grammar, and More",
+    "rating": 4.6
+  }
+}
+2026-03-07 16:13:29 - response - INFO - {
+  "timestamp": "2026-03-07T16:13:29.886687",
+  "url": "https://chromewebstore.google.com/detail/pdnenlnelpdomajfejgapbdpmjkfpjkp/reviews",
+  "status_code": 200,
+  "response_time": 0,
+  "response_data": {
+    "review_count": 14
+  }
+}

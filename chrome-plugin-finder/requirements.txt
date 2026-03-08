@@ -1,0 +1,22 @@
+# 爬虫相关依赖
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+playwright
+playwright-stealth
+aiohttp
+fake-useragent
+
+# LLM分析相关依赖
+openai
+
+# Excel处理依赖
+pandas
+openpyxl
+
+# 数据显示依赖
+tabulate
+
+# 其他工具
+python-dotenv
